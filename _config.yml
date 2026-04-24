@@ -11,35 +11,30 @@ theme: null
 markdown: kramdown
 permalink: pretty
 
-# Logo exibida no topo da sidebar
+# Logo exibida no topo da sidebar (adicione o arquivo em assets/images/)
 course_logo: "/assets/images/jgu-logo.png"
 
-# Navegação do curso
+# Modelo de navegação local (links da própria pasta/repositório).
 course_navigation:
   main:
     - title: Home
       path: /
-    - title: Schedule
+    - title: Zeitplan
       path: /schedule
-    - title: Instructions
+    - title: Anweisungen
       path: /instructions
-
   follien:
     - title: Sitzung 1
       path: /seminars/week01
-      slides: /assets/follien/1.pdf
     - title: Sitzung 2
       path: /seminars/week02
-      slides: /assets/follien/2.pdf
     - title: Sitzung 3
-      path: /seminars/week03
-      slides: /assets/follien/3.pdf
+      path: /seminars/week03     
     - title: Sitzung 4
-      path: /seminars/week04
-      slides: /assets/follien/4.pdf
-
+      path: /seminars/week04  
+    
   readings:
-    - title: Core
+    - title: Literatur
       path: /readings/core
 
 defaults:
