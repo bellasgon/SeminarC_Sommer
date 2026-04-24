@@ -4,28 +4,18 @@ title: Week 2
 instructor_slides: ""
 ---
 
-# Week 2
+# Sitzung 2: Die Rolle von Identität in der politischen Kommunikation (input auf Englisch)
 
 <div class="card">
-  <h3>👤 Presenter</h3>
-  <p>Student Name</p>
-</div>
-
-<div class="card">
-  <h3>📖 Readings</h3>
-  <p>Author (Year)</p>
+  <h3>👤 Leitung</h3>
+  <p>Isabella Gonçalves</p>
 </div>
 
 {% if page.instructor_slides %}
 <div class="card">
-  <h3>🎓 Instructor Slides</h3>
+  <h3>🎓 Follien</h3>
   <a class="button" href="{{ page.instructor_slides }}" target="_blank">
     Open slides →
   </a>
 </div>
 {% endif %}
-
-<div class="card">
-  <h3>📊 Student Slides</h3>
-  <p>Available via Dropbox (restricted access)</p>
-</div>
