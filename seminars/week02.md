@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 2
-instructor_slides: ""
+instructor_slides: "/assets/follien/2.pdf"
 ---
 
 # Week 2
@@ -19,7 +19,7 @@ instructor_slides: ""
 {% if page.instructor_slides %}
 <div class="card">
   <h3>🎓 Instructor Slides</h3>
-  <a class="button" href="{{ page.instructor_slides }}" target="_blank">
+  <a class="button" href="{{ page.instructor_slides | relative_url }}" target="_blank">
     Open slides →
   </a>
 </div>
