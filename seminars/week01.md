@@ -15,7 +15,7 @@ instructor_slides: "/assets/follien/1.pdf"
 <div class="card">
 
   <h3>🎓 Follien</h3>
-  <a class="button" href="{{ page.instructor_slides }}" target="_blank">
+  <a class="button" href="https://bellasgon.github.io/SeminarC_Sommer/assets/follien/1.pdf" target="_blank">
     Open slides →
   </a>
 </div>
