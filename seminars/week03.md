@@ -4,7 +4,7 @@ title: Week 2
 instructor_slides: ""
 ---
 
-# Sitzung 2: Die Rolle von Identität in der politischen Kommunikation (input auf Englisch)
+# Sitzung 3: Wie sieht eine gute wissenschaftliche Präsentation aus? 
 
 <div class="card">
   <h3>👤 Leitung</h3>
