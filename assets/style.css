@@ -73,6 +73,14 @@ a {
   color: #1939a7;
 }
 
+.sidebar a.sub-link {
+  margin-top: -4px;
+  margin-left: 18px;
+  padding: 6px 10px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
 .content {
   margin-left: 290px;
   width: calc(100% - 290px);

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 1
-instructor_slides: ""
+instructor_slides: "/assets/follien/1.pdf"
 ---
 
 # Sitzung 1: Einführung und Organisation
@@ -13,6 +13,7 @@ instructor_slides: ""
 
 {% if page.instructor_slides %}
 <div class="card">
+
   <h3>🎓 Follien</h3>
   <a class="button" href="{{ page.instructor_slides }}" target="_blank">
     Open slides →

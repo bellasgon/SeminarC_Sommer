@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 2
-instructor_slides: ""
+instructor_slides: "/assets/follien/2.pdf"
 ---
 
 # Sitzung 2: Die Rolle von Identität in der politischen Kommunikation (input auf Englisch)
