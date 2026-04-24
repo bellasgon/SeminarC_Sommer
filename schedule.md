@@ -4,6 +4,8 @@ title: Schedule
 ---
 
 # Zeitplan
+
+<img src="assets/images/plan.png" alt="Plan">
  
 | Datum | Terminübersicht | die Zuständige | Follien |
 |------|-------|-----------|-----------|
