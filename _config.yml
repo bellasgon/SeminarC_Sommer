@@ -19,9 +19,9 @@ course_navigation:
   main:
     - title: Home
       path: /
-    - title: Schedule
+    - title: Zeitplan
       path: /schedule
-    - title: Instructions
+    - title: Anweisungen
       path: /instructions
   follien:
     - title: Sitzung 1
