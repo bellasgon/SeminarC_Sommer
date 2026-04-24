@@ -1,0 +1,18 @@
+<h2>{{ site.title }}</h2>
+<p class="muted">{{ site.description }}</p>
+
+<nav>
+  {% for item in site.course_navigation.main %}
+    <a href="{{ item.path | relative_url }}">{{ item.title }}</a>
+  {% endfor %}
+
+  <h3>Weeks</h3>
+  {% for item in site.course_navigation.weeks %}
+    <a href="{{ item.path | relative_url }}">{{ item.title }}</a>
+  {% endfor %}
+
+  <h3>Readings</h3>
+  {% for item in site.course_navigation.readings %}
+    <a href="{{ item.path | relative_url }}">{{ item.title }}</a>
+  {% endfor %}
+</nav>
