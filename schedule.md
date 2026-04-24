@@ -5,7 +5,7 @@ title: Schedule
 
 # Zeitplan
 
-![Plan]({{ "/assets/images/plan.png" | relative_url }})
+<img src="{{ '/assets/images/plan.png' | relative_url }}" alt="Plan" width="600">
  
 | Datum | Terminübersicht | die Zuständige | Follien |
 |------|-------|-----------|-----------|
