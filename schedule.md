@@ -4,13 +4,13 @@ title: Schedule
 ---
 
 # Zeitplan
-
+ 
 | Datum | Terminübersicht | die Zuständige | Follien |
 |------|-------|-----------|-----------|
-| 16.04 | Einführung und Organisation | Isabella Gonçalves | [PDF 1]({{ '/assets/follien/1.pdf' | relative_url }}) |
-| 23.04 | Die Rolle von Identität in der politischen Kommunikation (Input auf Englisch) | Isabella Gonçalves | [PDF 2]({{ '/assets/follien/2.pdf' | relative_url }}) |
-| 30.04 | Wie sieht eine gute wissenschaftliche Präsentation aus? | Isabella Gonçalves | [PDF 3]({{ '/assets/follien/3.pdf' | relative_url }}) |
-| 07.05 | Elevator Pitch Workshop | Gruppenaktivität | [PDF 4]({{ '/assets/follien/4.pdf' | relative_url }}) |
+| 16.04 | Einführung und Organisation | Isabella Gonçalves | [PDF 1]({{ site.baseurl }}/assets/follien/1.pdf) |
+| 23.04 | Die Rolle von Identität in der politischen Kommunikation (Input auf Englisch) | Isabella Gonçalves | [PDF 2]({{ site.baseurl }}/assets/follien/2.pdf) |
+| 30.04 | Wie sieht eine gute wissenschaftliche Präsentation aus? | Isabella Gonçalves | [PDF 3]({{ site.baseurl }}/assets/follien/3.pdf) |
+| 07.05 | Elevator Pitch Workshop | Gruppenaktivität | [PDF 4]({{ site.baseurl }}/assets/follien/4.pdf) |
 | 14.05 | Sitzung entfällt - Feiertag | - | - |
 | 21.05 | Benotete Paper-Präsentation: The Centrality of Identity in Political Communication (Paper 1–5; Einzelpräsentationen 10–12 Min.) | Studierende | - |
 | 28.05.2026 | Benotete Paper-Präsentation: Political Group Communication: Social Groups as Active Communicators (Paper 6–10; Einzelpräsentationen 10–12 Min.) | Studierende | - |
