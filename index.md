@@ -7,6 +7,7 @@ title: "Home"
     <img class="home-logo" src="{{ site.course_logo | relative_url }}" alt="JGU logo">
   {% endif %}
   <h1>Seminar C: Die Identitätsrolle in der politischen Kommunikation</h1>
+  <h3>Dr. Isabella Gonçalves</h3>
 </div>
 
 Soziale Identitäten und Gruppenzugehörigkeiten stehen im Zentrum zeitgenössischer politischer Kommunikation. Sie strukturieren Wahrnehmung, Mediennutzung und affektive Reaktionen. Das Seminar fokussiert den sogenannten „identity turn“ in der politischen Kommunikationsforschung und fragt, wie Identität als analytischer Rahmen zentrale Phänomene wie affektive Polarisierung, selektive Mediennutzung, algorithmische Informationsumgebungen und intersektionale Differenzen erklärt.
