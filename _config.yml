@@ -3,9 +3,9 @@ description: Academic Seminar
 
 # GitHub Pages:
 # - user/organization site => baseurl: ""
-# - project site (repo "teaching") => baseurl: "/teaching"
+# - project site => baseurl: "/<repo-name>"
 url: ""
-baseurl: "/teaching"
+baseurl: "/SeminarC_Sommer"
 
 theme: null
 markdown: kramdown
