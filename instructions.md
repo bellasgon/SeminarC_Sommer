@@ -21,4 +21,4 @@ Zu jeder Präsentation wird eine Respondentin bzw. ein Respondent zugeteilt. Die
 - Frist: 24 Stunden vor dem Seminar  
 
 ## Wichtig
-- Die Folien der Studierenden sind aufgrund des Datenschutzes (DSGVO) NICHT ??ffentlich    
+- Die Folien der Studierenden sind aufgrund des Datenschutzes (DSGVO) NICHT öffentlich.   
