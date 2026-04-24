@@ -23,13 +23,18 @@ course_navigation:
       path: /schedule
     - title: Instructions
       path: /instructions
-  weeks:
-    - title: Week 1
+  follien:
+    - title: Sitzung 1
       path: /seminars/week01
-    - title: Week 2
+    - title: Sitzung 2
       path: /seminars/week02
+    - title: Sitzung 3
+    path: /seminars/week03     
+    - title: Sitzung 4
+    path: /seminars/week04  
+    
   readings:
-    - title: Core
+    - title: Literatur
       path: /readings/core
 
 defaults:
