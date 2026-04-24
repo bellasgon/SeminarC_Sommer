@@ -4,7 +4,7 @@ title: Week 2
 instructor_slides: ""
 ---
 
-# Sitzung 2: Die Rolle von Identität in der politischen Kommunikation (input auf Englisch)
+# Sitzung 4: Elevator Pitch Workshop
 
 <div class="card">
   <h3>👤 Leitung</h3>
