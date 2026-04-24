@@ -3,18 +3,18 @@ description: Academic Seminar
 
 # GitHub Pages:
 # - user/organization site => baseurl: ""
-# - project site (repo "teaching") => baseurl: "/teaching"
+# - project site => baseurl: "/<repo-name>"
 url: ""
-baseurl: "/teaching"
+baseurl: "/SeminarC_Sommer"
 
 theme: null
 markdown: kramdown
 permalink: pretty
 
-# Logo exibida no topo da sidebar (adicione o arquivo em assets/images/)
+# Logo exibida no topo da sidebar
 course_logo: "/assets/images/jgu-logo.png"
 
-# Modelo de navegação local (links da própria pasta/repositório).
+# Navegação do curso
 course_navigation:
   main:
     - title: Home
@@ -23,11 +23,21 @@ course_navigation:
       path: /schedule
     - title: Instructions
       path: /instructions
-  weeks:
-    - title: Week 1
+
+  follien:
+    - title: Sitzung 1
       path: /seminars/week01
-    - title: Week 2
+      slides: /assets/follien/1.pdf
+    - title: Sitzung 2
       path: /seminars/week02
+      slides: /assets/follien/2.pdf
+    - title: Sitzung 3
+      path: /seminars/week03
+      slides: /assets/follien/3.pdf
+    - title: Sitzung 4
+      path: /seminars/week04
+      slides: /assets/follien/4.pdf
+
   readings:
     - title: Core
       path: /readings/core

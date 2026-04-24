@@ -73,6 +73,14 @@ a {
   color: #1939a7;
 }
 
+.sidebar a.sub-link {
+  margin-top: -4px;
+  margin-left: 18px;
+  padding: 6px 10px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
 .content {
   margin-left: 290px;
   width: calc(100% - 290px);
@@ -96,13 +104,13 @@ a {
 }
 
 .home-logo {
-  width: 120px;
-  height: 120px;
-  max-width: 120px;
-  max-height: 120px;
+  width: auto;
+  height: 56px;
+  max-width: 140px;
+  max-height: 56px;
   object-fit: contain;
   display: block;
-  flex: 0 0 120px;
+  flex: 0 0 auto;
 }
 
 h1 {
@@ -227,9 +235,9 @@ th {
 }
 
 .home-brand img {
-  width: 120px !important;
-  height: 120px !important;
-  max-width: 120px !important;
-  max-height: 120px !important;
+  width: auto !important;
+  height: 56px !important;
+  max-width: 140px !important;
+  max-height: 56px !important;
   object-fit: contain !important;
 }
