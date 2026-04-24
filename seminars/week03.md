@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 2
+title: Week 3
 instructor_slides: ""
 ---
 
