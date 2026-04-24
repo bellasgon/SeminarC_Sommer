@@ -29,9 +29,9 @@ course_navigation:
     - title: Sitzung 2
       path: /seminars/week02
     - title: Sitzung 3
-    path: /seminars/week03     
+      path: /seminars/week03     
     - title: Sitzung 4
-    path: /seminars/week04  
+      path: /seminars/week04  
     
   readings:
     - title: Literatur
